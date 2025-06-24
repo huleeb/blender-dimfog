@@ -360,7 +360,7 @@
         gp_vertex_select="#ebe9ff"
         gp_vertex_size="3"
         text_grease_pencil="#a0ff9c"
-        object_selected="#847f7b"
+        object_selected="#e1e1e1"
         object_active="#ffdba6"
         text_keyframe="#e6e4ae"
         camera="#57523c"
